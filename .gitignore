@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+crawl-manifest.json
+*-manifest.json
+manifest*.json
+echecs*.json
+index-reference.json
+supprimes-doublons.json
+*.log
+examples/or-breslev/
